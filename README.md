@@ -1,6 +1,6 @@
 Playwright UI & API Test Project
 
-##Pre-requisites:-
+## Pre-requisites:-
 Before running the tests, make sure you have the following installed:
 
 1. Node.js: v14 or higher
